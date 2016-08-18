@@ -12,4 +12,4 @@
 ###2. To monitor the state of the mobile phone to determine whether there is a call. 
 ###3. The receiving system to make calls from radio to start recording. 
 ###4. The recording files are stored in SDCard root directory. 
-###5. If you have any questions, both Please free Me. 
+###5. If you have any questions, both Please Issues Me. 
